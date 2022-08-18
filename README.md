@@ -3,7 +3,7 @@
 
 ![Captura de tela de 2022-08-18 18-05-38](https://user-images.githubusercontent.com/102867453/185494970-afb0d310-c14a-45ed-a2ce-08ea519bd810.png)
 
----
+----
 Etapa 1: criar papéis do IAM necessários
 Crie uma função para a instância do EC2 com permissões para acesso ao CodeDeploy e S3 para baixar o código.
 Crie uma função para o serviço CodeDeploy com permissões para acessar o S3 e as funcionalidades básicas do CodeBuild.
